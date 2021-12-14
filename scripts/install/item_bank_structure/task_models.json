@@ -1,0 +1,986 @@
+[
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3A.1",
+   "Task Model_Text": "3A.1: Analysis of the contribution of illustrations"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3A.2",
+   "Task Model_Text": "3A.2: Central idea/lesson of literature from diverse cultures"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3A.3",
+   "Task Model_Text": "3A.3: Characterization in a story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3A.4",
+   "Task Model_Text": "3A.4: Author's study including analysis of illustration"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3B.1",
+   "Task Model_Text": "3B.1: Analyzing the relationship between a series of concepts"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3B.2",
+   "Task Model_Text": "3B.2: Analyzing the role of illustrations"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3B.3",
+   "Task Model_Text": "3B.3: Comparing and contrasting important points/key details"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3C.1",
+   "Task Model_Text": "3C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "3C.2",
+   "Task Model_Text": "3C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 3,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4A.1",
+   "Task Model_Text": "4A.1: Analysis of structural elements"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4A.2",
+   "Task Model_Text": "4A.2: Central idea/lesson of literature"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4A.3",
+   "Task Model_Text": "4A.3: Character(s), setting(s), or event(s)"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4A.4",
+   "Task Model_Text": "4A.4: Author's study"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4A.5",
+   "Task Model_Text": "4A.5: Connecting a text and a companion visual or oral presentation of that text"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4B.1",
+   "Task Model_Text": "4B.1: Analyzing the relationship between a series of concepts"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4B.2",
+   "Task Model_Text": "4B.2: Analyzing the role of illustrations"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4B.3",
+   "Task Model_Text": "4B.3: Analyzing 1st and 2nd hand accounts"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4B.4",
+   "Task Model_Text": "4B.4: Analyzing authors' use of evidence"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4C.1",
+   "Task Model_Text": "4C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "4C.2",
+   "Task Model_Text": "4C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 4,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5A.1",
+   "Task Model_Text": "5A.1: Influence of narrator's or speaker's point of view"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5A.2",
+   "Task Model_Text": "5A.2: Central idea/lesson of literature"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5A.3",
+   "Task Model_Text": "5A.3: Comparison of character(s), setting(s), or event(s)"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5A.4",
+   "Task Model_Text": "5A.4: Comparing themes and topics"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5A.5",
+   "Task Model_Text": "5A.5: Analysis of visual and multimedia elements"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5B.1",
+   "Task Model_Text": "5B.1: Analyzing the relationship between a series of concepts"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5B.2",
+   "Task Model_Text": "5B.2: Analyzing the role of illustrations"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5B.3",
+   "Task Model_Text": "5B.3: Analyzing multiple accounts"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5B.4",
+   "Task Model_Text": "5B.4: Analyzing authors' use of evidence"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5C.1",
+   "Task Model_Text": "5C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "5C.2",
+   "Task Model_Text": "5C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 5,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6A.1",
+   "Task Model_Text": "6A.1: Contribution of one section to theme, setting, or plot"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6A.2",
+   "Task Model_Text": "6A.2: Central idea/lesson of literature"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6A.3",
+   "Task Model_Text": "6A.3: Analysis of plot and characterization"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6A.4",
+   "Task Model_Text": "6A.4: Comparing themes and topics"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6A.5",
+   "Task Model_Text": "6A.5: Comparing a print text to a multimedia version of that text"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6A.6",
+   "Task Model_Text": "6A.6: Point of view of narrator or speaker"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.1",
+   "Task Model_Text": "6B.1: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.2",
+   "Task Model_Text": "6B.2: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.3",
+   "Task Model_Text": "6B.3: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.4",
+   "Task Model_Text": "6B.4: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.5",
+   "Task Model_Text": "6B.5: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.6",
+   "Task Model_Text": "6B.6: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.7",
+   "Task Model_Text": "6B.7: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.8",
+   "Task Model_Text": "6B.8: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.9",
+   "Task Model_Text": "6B.9: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.10",
+   "Task Model_Text": "6B.10: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.11",
+   "Task Model_Text": "6B.11: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.12",
+   "Task Model_Text": "6B.12: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.13",
+   "Task Model_Text": "6B.13: Analyzing primary and secondary sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6B.14",
+   "Task Model_Text": "6B.14: Comparing and contrasting information gained from various sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6C.1",
+   "Task Model_Text": "6C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "6C.2",
+   "Task Model_Text": "6C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 6,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7A.1",
+   "Task Model_Text": "7A.1: Analyzing point of view"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7A.2",
+   "Task Model_Text": "7A.2: Central idea/lesson of literature"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7A.3",
+   "Task Model_Text": "7A.3: Interaction of literary elements in poetry and drama"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7A.4",
+   "Task Model_Text": "7A.4: Comparison of techniques in print text and multimedia"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7A.5",
+   "Task Model_Text": "7A.5: Influence of narrator's or speaker's point of view"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7A.6",
+   "Task Model_Text": "7A.6: Effects of structure or form on meaning in poetry or drama"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7A.7",
+   "Task Model_Text": "7A.7: Interaction of story elements in fiction"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.1",
+   "Task Model_Text": "7B.1: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.2",
+   "Task Model_Text": "7B.2: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.3",
+   "Task Model_Text": "7B.3: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.4",
+   "Task Model_Text": "7B.4: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.5",
+   "Task Model_Text": "7B.5: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.6",
+   "Task Model_Text": "7B.6: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.7",
+   "Task Model_Text": "7B.7: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.8",
+   "Task Model_Text": "7B.8: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.9",
+   "Task Model_Text": "7B.9: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.10",
+   "Task Model_Text": "7B.10: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.11",
+   "Task Model_Text": "7B.11: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.12",
+   "Task Model_Text": "7B.12: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.13",
+   "Task Model_Text": "7B.13: Analyzing primary and secondary sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7B.14",
+   "Task Model_Text": "7B.14: Comparing and contrasting information gained from various sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7C.1",
+   "Task Model_Text": "7C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "7C.2",
+   "Task Model_Text": "7C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 7,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8A.1",
+   "Task Model_Text": "8A.1: Differences in point of views of characters"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8A.2",
+   "Task Model_Text": "8A.2: Central idea/lesson of literature"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8A.3",
+   "Task Model_Text": "8A.3: Effect of dialogue or events"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8A.4",
+   "Task Model_Text": "8A.4: Analysis of themes, patterns of events, or character types"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8A.5",
+   "Task Model_Text": "8A.5: Analysis of a filmed production"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.1",
+   "Task Model_Text": "8B.1: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.2",
+   "Task Model_Text": "8B.2: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.3",
+   "Task Model_Text": "8B.3: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.4",
+   "Task Model_Text": "8B.4: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.5",
+   "Task Model_Text": "8B.5: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.6",
+   "Task Model_Text": "8B.6: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.7",
+   "Task Model_Text": "8B.7: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.8",
+   "Task Model_Text": "8B.8: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.9",
+   "Task Model_Text": "8B.9: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.10",
+   "Task Model_Text": "8B.10: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.11",
+   "Task Model_Text": "8B.11: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.12",
+   "Task Model_Text": "8B.12: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.13",
+   "Task Model_Text": "8B.13: Analyzing primary and secondary sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8B.14",
+   "Task Model_Text": "8B.14: Comparing and contrasting information from various sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8C.1",
+   "Task Model_Text": "8C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "8C.2",
+   "Task Model_Text": "8C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 8,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9A.1",
+   "Task Model_Text": "9A.1: Analysis of non- U.S. literature"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9A.2",
+   "Task Model_Text": "9A.2: Text structure/manipulation of time"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9A.3",
+   "Task Model_Text": "9A.3: Complex characterization"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9A.4",
+   "Task Model_Text": "9A.4: Analysis of how author draws on or transforms source material"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9A.5",
+   "Task Model_Text": "9A.5: Analysis of a subject or scene"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.1",
+   "Task Model_Text": "9B.1: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.2",
+   "Task Model_Text": "9B.2: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.3",
+   "Task Model_Text": "9B.3: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.4",
+   "Task Model_Text": "9B.4: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.5",
+   "Task Model_Text": "9B.5: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.6",
+   "Task Model_Text": "9B.6: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.7",
+   "Task Model_Text": "9B.7: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.8",
+   "Task Model_Text": "9B.8: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.9",
+   "Task Model_Text": "9B.9: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.10",
+   "Task Model_Text": "9B.10: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.11",
+   "Task Model_Text": "9B.11: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.12",
+   "Task Model_Text": "9B.12: Analyzing primary and secondary sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9B.13",
+   "Task Model_Text": "9B.13: Comparing and contrasting information gained from various sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9C.1",
+   "Task Model_Text": "9C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "9C.2",
+   "Task Model_Text": "9C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 9,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10A.1",
+   "Task Model_Text": "10A.1: Impact of word choice"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10A.2",
+   "Task Model_Text": "10A.2: Structural analysis"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10A.3",
+   "Task Model_Text": "10A.3: Complex characterization"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10A.4",
+   "Task Model_Text": "10A.4: Analysis of how author draws on or transforms source material"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10A.5",
+   "Task Model_Text": "10A.5: Analysis of a subject or scene"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.1",
+   "Task Model_Text": "10B.1: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.2",
+   "Task Model_Text": "10B.2: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.3",
+   "Task Model_Text": "10B.3: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.4",
+   "Task Model_Text": "10B.4: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.5",
+   "Task Model_Text": "10B.5: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.6",
+   "Task Model_Text": "10B.6: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.7",
+   "Task Model_Text": "10B.7: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.8",
+   "Task Model_Text": "10B.8: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.9",
+   "Task Model_Text": "10B.9: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.10",
+   "Task Model_Text": "10B.10: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.11",
+   "Task Model_Text": "10B.11: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.12",
+   "Task Model_Text": "10B.12: Analyzing primary and secondary sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10B.13",
+   "Task Model_Text": "10B.13: Comparing and contrasting information gained from various sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10C.1",
+   "Task Model_Text": "10C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "10C.2",
+   "Task Model_Text": "10C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 10,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11A.1",
+   "Task Model_Text": "11A.1: Text structure"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11A.2",
+   "Task Model_Text": "11A.2: Analysis of two or more themes/central ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11A.3",
+   "Task Model_Text": "11A.3: Analysis of story elements/structure"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11A.4",
+   "Task Model_Text": "11A.4: Expression of knowledge of eighteenth, nineteenth, and early-twentieth century treatment of similar themes and topics"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.1",
+   "Task Model_Text": "11B.1: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.2",
+   "Task Model_Text": "11B.2: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.3",
+   "Task Model_Text": "11B.3: Point of view and purpose"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.4",
+   "Task Model_Text": "11B.4: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.5",
+   "Task Model_Text": "11B.5: Use of illustrations and other visuals"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.6",
+   "Task Model_Text": "11B.6: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.7",
+   "Task Model_Text": "11B.7: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.8",
+   "Task Model_Text": "11B.8: Analysis of argument"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.9",
+   "Task Model_Text": "11B.9: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.10",
+   "Task Model_Text": "11B.10: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.11",
+   "Task Model_Text": "11B.11: Relationship of ideas"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11B.12",
+   "Task Model_Text": "11B.12: Synthesis of information from a range of sources"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11C.1",
+   "Task Model_Text": "11C.1: Narrative story"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "11C.2",
+   "Task Model_Text": "11C.2: Narrative description"
+ },
+ {
+   "Subject": "ELA",
+   "Grade": 11,
+   "Task Model": "None",
+   "Task Model_Text": "Not Applicable"
+ }
+]

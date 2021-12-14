@@ -1,0 +1,33 @@
+{
+  "name": "oat-sa/extension-tao-newmeridian",
+  "description": "Custom code for New Meridian",
+  "type": "tao-extension",
+  "authors": [
+    {
+      "name": "Open Assessment Technologies SA"
+    }
+  ],
+  "keywords": [
+    "tao",
+    "computer-based-assessment"
+  ],
+  "homepage": "http://www.taotesting.com",
+  "license": [
+    "proprietary"
+  ],
+  "extra": {
+    "tao-extension-name": "taoNewMeridian"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "oat-sa/oatbox-extension-installer": "~1.1||dev-master",
+    "oat-sa/tao-core" : ">=47.0.0",
+    "oat-sa/extension-tao-system-status" : ">=1.0.0",
+    "oat-sa/extension-tao-itemqti": ">=27.8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "oat\\taoNewMeridian\\": ""
+    }
+  }
+}

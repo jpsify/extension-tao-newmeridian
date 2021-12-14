@@ -1,0 +1,163 @@
+{
+    "ela_kindergarten": {
+        "tree": "ELA",
+        "label": "ELA Kindergarten",
+        "subtrees": [
+            "Kindergarten"
+        ]
+    },
+    "ela_grade_1": {
+        "tree": "ELA",
+        "label": "ELA Grade 1",
+        "subtrees": [
+            "Grade 1"
+        ]
+    },
+    "ela_grade_2": {
+        "tree": "ELA",
+        "label": "ELA Grade 2",
+        "subtrees": [
+            "Grade 2"
+        ]
+    },
+    "ela_grade_2_3": {
+        "tree": "ELA",
+        "label": "ELA Grade 3",
+        "subtrees": [
+            "Grade 2",
+            "Grade 3"
+        ]
+    },
+    "ela_grade_4": {
+        "tree": "ELA",
+        "label": "ELA Grade 4",
+        "subtrees": [
+            "Grade 4"
+        ]
+    },
+    "ela_grade_5": {
+        "tree": "ELA",
+        "label": "ELA Grade 5",
+        "subtrees": [
+            "Grade 5"
+        ]
+    },
+    "ela_grade_6": {
+        "tree": "ELA",
+        "label": "ELA Grade 6",
+        "subtrees": [
+            "Grade 6"
+        ]
+    },
+    "ela_grade_7": {
+        "tree": "ELA",
+        "label": "ELA Grade 7",
+        "subtrees": [
+            "Grade 7"
+        ]
+    },
+    "ela_grade_8": {
+        "tree": "ELA",
+        "label": "ELA Grade 8",
+        "subtrees": [
+            "Grade 8"
+        ]
+    },
+    "ela_grade_9_10": {
+        "tree": "ELA",
+        "label": "ELA Grade 9-10",
+        "subtrees": [
+            "Grade 9-10"
+        ]
+    },
+    "ela_grade_11_12": {
+        "tree": "ELA",
+        "label": "ELA Grade 11-12",
+        "subtrees": [
+            "Grade 11-12"
+        ]
+    },
+    "math_kindergarten": {
+        "tree": "MATH",
+        "label": "MATH Kindergarten",
+        "subtrees": [
+            "Kindergarten"
+        ]
+    },
+    "math_grade_1": {
+        "tree": "MATH",
+        "label": "MATH Grade 1",
+        "subtrees": [
+            "Grade 1"
+        ]
+    },
+    "math_grade_2": {
+        "tree": "MATH",
+        "label": "MATH Grade 2",
+        "subtrees": [
+            "Grade 2"
+        ]
+    },
+    "math_grade_2_3": {
+        "tree": "MATH",
+        "label": "MATH Grade 3",
+        "subtrees": [
+            "Grade 2",
+            "Grade 3"
+        ]
+    },
+    "math_grade_3_4": {
+        "tree": "MATH",
+        "label": "MATH Grade 4",
+        "subtrees": [
+            "Grade 3",
+            "Grade 4"
+        ]
+    },
+    "math_grade_4_5": {
+        "tree": "MATH",
+        "label": "MATH Grade 5",
+        "subtrees": [
+            "Grade 4",
+            "Grade 5"
+        ]
+    },
+    "math_grade_5_6": {
+        "tree": "MATH",
+        "label": "MATH Grade 6",
+        "subtrees": [
+            "Grade 5",
+            "Grade 6"
+        ]
+    },
+    "math_grade_6_7": {
+        "tree": "MATH",
+        "label": "MATH Grade 7",
+        "subtrees": [
+            "Grade 6",
+            "Grade 7"
+        ]
+    },
+    "math_grade_7_8": {
+        "tree": "MATH",
+        "label": "MATH Grade 8",
+        "subtrees": [
+            "Grade 7",
+            "Grade 8"
+        ]
+    },
+    "math_high_school": {
+        "tree": "MATH",
+        "label": "MATH High School",
+        "subtrees": [
+            "Grade 6",
+            "Grade 7",
+            "Grade 8",
+            "Number and Quantity",
+            "Algebra",
+            "Functions",
+            "Geometry",
+            "Statistics & Probability"
+        ]
+    }
+}

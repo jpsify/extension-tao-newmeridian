@@ -1,0 +1,260 @@
+{
+    "ELA": {
+        "id": "ELA",
+        "children": [
+            {
+                "id": "Summative",
+                "children": [
+                    {
+                        "id": "Grade 3",
+                        "evidence_statement_list_key": "es_ela_grade_3",
+                        "task_model_list_key": "tm_ela_grade_3",
+                        "ims_tree_key": "ela_grade_2_3"
+                    },
+                    {
+                        "id": "Grade 4",
+                        "evidence_statement_list_key": "es_ela_grade_4",
+                        "task_model_list_key": "tm_ela_grade_4",
+                        "ims_tree_key": "ela_grade_4"
+                    },
+                    {
+                        "id": "Grade 5",
+                        "evidence_statement_list_key": "es_ela_grade_5",
+                        "task_model_list_key": "tm_ela_grade_5",
+                        "ims_tree_key": "ela_grade_5"
+                    },
+                    {
+                        "id": "Grade 6",
+                        "evidence_statement_list_key": "es_ela_grade_6",
+                        "task_model_list_key": "tm_ela_grade_6",
+                        "ims_tree_key": "ela_grade_6"
+                    },
+                    {
+                        "id": "Grade 7",
+                        "evidence_statement_list_key": "es_ela_grade_7",
+                        "task_model_list_key": "tm_ela_grade_7",
+                        "ims_tree_key": "ela_grade_7"
+                    },
+                    {
+                        "id": "Grade 8",
+                        "evidence_statement_list_key": "es_ela_grade_8",
+                        "task_model_list_key": "tm_ela_grade_8",
+                        "ims_tree_key": "ela_grade_8"
+                    },
+                    {
+                        "id": "Grade 9",
+                        "evidence_statement_list_key": "es_ela_grade_9",
+                        "task_model_list_key": "tm_ela_grade_9",
+                        "ims_tree_key": "ela_grade_9_10"
+                    },
+                    {
+                        "id": "Grade 10",
+                        "evidence_statement_list_key": "es_ela_grade_10",
+                        "task_model_list_key": "tm_ela_grade_10",
+                        "ims_tree_key": "ela_grade_9_10"
+                    },
+                    {
+                        "id": "Grade 11",
+                        "evidence_statement_list_key": "es_ela_grade_11",
+                        "task_model_list_key": "tm_ela_grade_11",
+                        "ims_tree_key": "ela_grade_11_12"
+                    }
+                ]
+            },
+            {
+                "id": "Non-Summative",
+                "children": [
+                    {
+                        "id": "Kindergarten",
+                        "evidence_statement_list_key": "es_ela_kindergarten",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "ela_kindergarten"
+                    },
+                    {
+                        "id": "Grade 1",
+                        "evidence_statement_list_key": "es_ela_grade_1",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "ela_grade_1"
+                    },
+                    {
+                        "id": "Grade 2",
+                        "evidence_statement_list_key": "es_ela_grade_2",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "ela_grade_2"
+                    },
+                    {
+                        "id": "Grade 3",
+                        "evidence_statement_list_key": "es_ela_grade_3",
+                        "task_model_list_key": "tm_ela_grade_3",
+                        "ims_tree_key": "ela_grade_2_3"
+                    },
+                    {
+                        "id": "Grade 4",
+                        "evidence_statement_list_key": "es_ela_grade_4",
+                        "task_model_list_key": "tm_ela_grade_4",
+                        "ims_tree_key": "ela_grade_4"
+                    },
+                    {
+                        "id": "Grade 5",
+                        "evidence_statement_list_key": "es_ela_grade_5",
+                        "task_model_list_key": "tm_ela_grade_5",
+                        "ims_tree_key": "ela_grade_5"
+                    },
+                    {
+                        "id": "Grade 6",
+                        "evidence_statement_list_key": "es_ela_grade_6",
+                        "task_model_list_key": "tm_ela_grade_6",
+                        "ims_tree_key": "ela_grade_6"
+                    },
+                    {
+                        "id": "Grade 7",
+                        "evidence_statement_list_key": "es_ela_grade_7",
+                        "task_model_list_key": "tm_ela_grade_7",
+                        "ims_tree_key": "ela_grade_7"
+                    },
+                    {
+                        "id": "Grade 8",
+                        "evidence_statement_list_key": "es_ela_grade_8",
+                        "task_model_list_key": "tm_ela_grade_8",
+                        "ims_tree_key": "ela_grade_8"
+                    },
+                    {
+                        "id": "Grade 9",
+                        "evidence_statement_list_key": "es_ela_grade_9",
+                        "task_model_list_key": "tm_ela_grade_9",
+                        "ims_tree_key": "ela_grade_9_10"
+                    },
+                    {
+                        "id": "Grade 10",
+                        "evidence_statement_list_key": "es_ela_grade_10",
+                        "task_model_list_key": "tm_ela_grade_10",
+                        "ims_tree_key": "ela_grade_9_10"
+                    },
+                    {
+                        "id": "Grade 11",
+                        "evidence_statement_list_key": "es_ela_grade_11",
+                        "task_model_list_key": "tm_ela_grade_11",
+                        "ims_tree_key": "ela_grade_11_12"
+                    }
+                ]
+            }
+        ]
+    },
+    "MATH": {
+        "id": "Mathematics",
+        "children": [
+            {
+                "id": "Summative",
+                "children": [
+                    {
+                        "id": "Grade 3",
+                        "evidence_statement_list_key": "es_math_grade_3",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_2_3"
+                    },
+                    {
+                        "id": "Grade 4",
+                        "evidence_statement_list_key": "es_math_grade_4",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_3_4"
+                    },
+                    {
+                        "id": "Grade 5",
+                        "evidence_statement_list_key": "es_math_grade_5",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_4_5"
+                    },
+                    {
+                        "id": "Grade 6",
+                        "evidence_statement_list_key": "es_math_grade_6",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_5_6"
+                    },
+                    {
+                        "id": "Grade 7",
+                        "evidence_statement_list_key": "es_math_grade_7",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_6_7"
+                    },
+                    {
+                        "id": "Grade 8",
+                        "evidence_statement_list_key": "es_math_grade_8",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_7_8"
+                    },
+                    {
+                        "id": "High School",
+                        "evidence_statement_list_key": "es_math_grade_high_school",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_high_school"
+                    }
+                ]
+            },
+            {
+                "id": "Non-Summative",
+                "children": [
+                    {
+                        "id": "Kindergarten",
+                        "evidence_statement_list_key": "es_math_kindergarten",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_kindergarten"
+                    },
+                    {
+                        "id": "Grade 1",
+                        "evidence_statement_list_key": "es_math_grade_1",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_1"
+                    },
+                    {
+                        "id": "Grade 2",
+                        "evidence_statement_list_key": "es_math_grade_2",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_2"
+                    },
+                    {
+                        "id": "Grade 3",
+                        "evidence_statement_list_key": "es_math_grade_3",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_2_3"
+                    },
+                    {
+                        "id": "Grade 4",
+                        "evidence_statement_list_key": "es_math_grade_4",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_3_4"
+                    },
+                    {
+                        "id": "Grade 5",
+                        "evidence_statement_list_key": "es_math_grade_5",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_4_5"
+                    },
+                    {
+                        "id": "Grade 6",
+                        "evidence_statement_list_key": "es_math_grade_6",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_5_6"
+                    },
+                    {
+                        "id": "Grade 7",
+                        "evidence_statement_list_key": "es_math_grade_7",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_6_7"
+                    },
+                    {
+                        "id": "Grade 8",
+                        "evidence_statement_list_key": "es_math_grade_8",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_grade_7_8"
+                    },
+                    {
+                        "id": "High School",
+                        "evidence_statement_list_key": "es_math_grade_high_school",
+                        "task_model_list_key": null,
+                        "ims_tree_key": "math_high_school"
+                    }
+                ]
+            }
+        ]
+    }
+}
